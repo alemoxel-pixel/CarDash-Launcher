@@ -1,7 +1,6 @@
 # CarDash Launcher
 
-A dark dashboard in place of your head unit's stock screen. Music, weather, apps and car
-telemetry, brought together in one screen and tuned to your car.
+Car dashboard launcher for Android head units.
 
 [Download the latest APK](../../releases/latest) · [Telegram channel](https://t.me/cardashlauncher) · [Website](https://mambatime.tech/cardash)
 
@@ -94,8 +93,7 @@ The source code is not published. The APK is signed with the author's key.
 
 ## По-русски
 
-CarDash Launcher — тёмный дашборд вместо штатного экрана магнитолы. Музыка, погода, приложения и
-телеметрия авто собраны на одном экране и настроены под вашу машину.
+Автомобильный лаунчер-дашборд для Android-магнитол.
 
 [Скачать последнюю версию](../../releases/latest) · [Telegram-канал](https://t.me/cardashlauncher) · [Сайт](https://mambatime.tech/cardash)
 
