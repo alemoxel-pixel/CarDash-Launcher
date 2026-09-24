@@ -50,10 +50,15 @@ There is also an OBD Color theme with separate gauges.
 
 - Android 8.0 or newer.
 - No Google Play Services needed. The launcher is lightweight and easy on weak head units.
-- Built and tested on a UNISOC head unit with Android 13 and a wide landscape screen. Theme 1 also
-  adapts to long screens such as 1920×720 and 1280×480: the player turns horizontal and the text
-  gets larger. Other units and screen shapes may need adjustments. If something looks wrong on yours, please open an issue
-  with a screenshot and the model of your head unit.
+- Landscape screen. Theme 1 also adapts to long screens such as 1920×720 and 1280×480: the player
+  turns horizontal and the text gets larger.
+
+## Compatibility
+
+CarDash Launcher is developed and tested primarily on a TopWay TS20 head unit (UNISOC, Android 13).
+Head units from other manufacturers run different firmware, so some features may behave differently
+or may not work at all. If something does not work on your head unit, please open an issue and
+include a screenshot and the model of your head unit.
 
 ## Installation
 
@@ -116,10 +121,15 @@ CarDash Launcher — тёмный дашборд вместо штатного �
 
 - Android 8.0 и новее.
 - Google Play Services не нужны. Лаунчер лёгкий и не грузит слабые магнитолы.
-- Сделан и проверен на магнитоле UNISOC с Android 13 и широким горизонтальным экраном. Тема 1
-  подстраивается и под длинные экраны вроде 1920×720 и 1280×480: плеер становится горизонтальным,
-  текст — крупнее. На других магнитолах и экранах другой формы может понадобиться доработка. Если у вас что-то выглядит не
-  так, создайте issue со скриншотом и моделью магнитолы.
+- Горизонтальный экран. Тема 1 подстраивается и под длинные экраны вроде 1920×720 и 1280×480:
+  плеер становится горизонтальным, текст — крупнее.
+
+### Совместимость
+
+CarDash Launcher разрабатывается и проверяется в первую очередь на магнитоле TopWay TS20 (UNISOC,
+Android 13). У магнитол других производителей своя прошивка, поэтому часть функций может работать
+иначе или не работать вовсе. Если на вашей магнитоле что-то не работает, создайте issue и
+приложите скриншот и модель магнитолы.
 
 ### Установка
 
