@@ -50,8 +50,9 @@ There is also an OBD Color theme with separate gauges.
 
 - Android 8.0 or newer.
 - No Google Play Services needed. The launcher is lightweight and easy on weak head units.
-- Built and tested on a UNISOC head unit with Android 13 and a wide landscape screen. Other units
-  and screen shapes may need adjustments. If something looks wrong on yours, please open an issue
+- Built and tested on a UNISOC head unit with Android 13 and a wide landscape screen. Theme 1 also
+  adapts to long screens such as 1920×720 and 1280×480: the player turns horizontal and the text
+  gets larger. Other units and screen shapes may need adjustments. If something looks wrong on yours, please open an issue
   with a screenshot and the model of your head unit.
 
 ## Installation
@@ -115,8 +116,9 @@ CarDash Launcher — тёмный дашборд вместо штатного �
 
 - Android 8.0 и новее.
 - Google Play Services не нужны. Лаунчер лёгкий и не грузит слабые магнитолы.
-- Сделан и проверен на магнитоле UNISOC с Android 13 и широким горизонтальным экраном. На других
-  магнитолах и экранах другой формы может понадобиться доработка. Если у вас что-то выглядит не
+- Сделан и проверен на магнитоле UNISOC с Android 13 и широким горизонтальным экраном. Тема 1
+  подстраивается и под длинные экраны вроде 1920×720 и 1280×480: плеер становится горизонтальным,
+  текст — крупнее. На других магнитолах и экранах другой формы может понадобиться доработка. Если у вас что-то выглядит не
   так, создайте issue со скриншотом и моделью магнитолы.
 
 ### Установка
